@@ -1,4 +1,4 @@
-# VmsTools
+# VMS Tools
 
 A collection of useful OpenVMS DCL command procedures.
 
