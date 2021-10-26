@@ -7,6 +7,8 @@ $!              xfServer processes (SYNLAU_<pid>)
 $!
 $! Usage:       $ @OPENFILES_XFSERVER
 $!
+$! Author:      Steve Ives (steve.ives@synergex.com)
+$!
 $!===========================================================================
 $!
 $!      Make sure we have the required privileges

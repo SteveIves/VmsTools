@@ -6,6 +6,8 @@ $! Description: Lists the data files (ISAM and RELATIVE) opened by a process
 $!
 $! Usage:       $ @OPENFILES <process-id>
 $!
+$! Author:      Steve Ives (steve.ives@synergex.com)
+$!
 $!===========================================================================
 $!
 $!      Make sure we have a P1 parameter value
